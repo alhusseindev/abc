@@ -14,5 +14,8 @@ int main(){
         //ask the user for input
         std::cout << "Enter a number" << std::endl;
         std::cin >> a;
+
+        //Newly Added
+        std::cout << "Alhussein" << std::endl;
     }    
 }
